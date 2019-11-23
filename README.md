@@ -5,7 +5,3 @@ Yannick Jacques
 ## Technology used
 1. SwiftUI
 2. Alamofire
-
-
-# Github-SwifUI
-# Github-SwifUI
