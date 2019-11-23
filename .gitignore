@@ -1,0 +1,5 @@
+xcdebugger
+*.xcbkptlist
+*.xcworkspacedata
+/Github-swiftUI/Networking/Git/GitHub/githubApiConfiguration.plist
+*.xcuserstate
